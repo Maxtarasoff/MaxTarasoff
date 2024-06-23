@@ -1,13 +1,20 @@
-## Hi there 👋
-
-<div id="badges">
-  <a href="linkedin">
+<div  id="badges" align="center">
+  <a href="https://www.linkedin.com/in/maxtarasoff/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="codewars">
-    <img src="https://www.codewars.com/users/Max%20Tarasoff/badges/large&logo=youtube&logoColor=white" alt="Codewars Badge"/>
-  </a>
 </div>
+
+
+<h1 align="center">
+  Hi there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+
+
+![Static Badge](https://www.codewars.com/users/Max%20Tarasoff/badges/small)
+
+<img src="https://komarev.com/ghpvc/?username=MaxTarasoff&style=flat-square&color=blue" alt=""/>
 
 <!--
 **Maxtarasoff/MaxTarasoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
